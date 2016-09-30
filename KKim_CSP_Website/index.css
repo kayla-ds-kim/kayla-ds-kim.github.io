@@ -1,0 +1,102 @@
+* {
+	font-family:Courier New;
+}
+
+html {
+	/*This section is template from Css-Tricks.com*/
+	background: url(images/Background.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	/*Section ends*/
+}
+
+body{
+/*Here just incase*/
+}
+
+#opacity1 {
+	/*This was just for testing*/
+}
+
+.header {
+	display:inline-block;
+	margin:0px auto;
+	width:100%;
+	margin-top:-5px;
+	/*This portion was taken from the school website as refference/template"*/
+	height: 40px;
+	border-bottom: solid 1px #FFF;
+	/*portion ends here*/
+}
+	
+.title {
+	color:white;
+	font-size:20px;
+	padding:15px;
+	float:left;
+	margin-top:-8px;
+}
+
+.htext {
+	color:white;
+	font-size:20px;
+	text-decoration:none;
+	padding:15px;
+	padding-right:20px;
+	float:right;
+	margin-top:-6px;
+}
+
+.element{
+	color:#ffffff;
+	font-size: 100px;
+	text-align:center;
+	font-weight:100;
+	margin-top:275px;
+}
+
+.content {
+	margin-top:200px;
+	padding:10px;
+}
+
+.name {
+	text-align:center;
+	color:white;
+	font-weight: 400;
+}
+
+.bio {
+	width:98%;
+	text-align:center;
+	color:white;
+}
+
+.profile {
+	height:200px;
+	border-radius:50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 230px;
+}
+
+.media {
+	width:250;
+	margin-top:480px;
+}
+
+.insta {
+	height:50px;
+	float:right;
+	padding:7px;
+}
+
+.face {
+	height:50px;
+	float:right;
+	padding:7px;
+	margin-left:10px;
+}

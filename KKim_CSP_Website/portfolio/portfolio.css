@@ -1,0 +1,124 @@
+* {
+	font-family:Courier New;
+}
+
+a:link {
+	color:white;
+	text-decoration:none;
+}
+
+a:visited {
+	color:white;
+	text-decoration:none;
+}
+
+html {
+	/*This section is template from Css-Tricks.com*/
+	background: url(images/Background.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	/*Section ends*/
+}
+
+body{
+/*Here just in case*/
+}
+
+.header {
+	display:inline-block;
+	margin:0px auto;
+	width:100%;
+	margin-top:-5px;
+	/*This portion was taken from the school website as refference/template*/
+	height: 40px;
+	border-bottom: solid 1px #FFF;
+	/*portion ends here*/
+}
+
+.title {
+	color:white;
+	font-size:20px;
+	padding:15px;
+	float:left;
+	margin-top:-8px;
+}
+
+.htext {
+	color:white;
+	font-size:20px;
+	text-decoration:none;
+	padding:15px;
+	padding-right:20px;
+	float:right;
+	margin-top:-6px;
+}
+
+.column1 {
+	width:48%;
+	float:left;
+}
+
+.ppic {
+	padding: 5px;
+	float:left;
+}
+
+.text {
+	padding: 5px;
+	color:white;
+	font-size:20px;
+	float:auto;
+}
+
+ul {
+	color:white;
+	margin-left:10px;
+	margin-top:-10px;
+	padding:5px;
+}
+
+.column2 {
+	float:right;
+	width:48%;
+}
+
+#image1 {
+	margin-top:-15px;
+}
+
+#date2 {
+	margin-bottom:5px;
+}
+
+.scratchSept6 {
+	/*this is here just incase*/
+}
+
+.scratchref1 {
+	color:white;
+	padding-bottom:5px;
+}
+
+.scratchref {
+	color:white;
+}
+
+.ScratchImage {
+	height:200px;
+}
+
+.PythonLogo {
+	height:200px;
+	width:100%;
+}
+
+.Backlog {
+	color:#ffffff;
+}
+
+.pythonlinks {
+	color:#fffff;
+	padding-bottom:5px;
+}
