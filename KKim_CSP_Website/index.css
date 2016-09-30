@@ -4,20 +4,12 @@
 
 html {
 	/*This section is template from Css-Tricks.com*/
-	background: url(images/Background.jpg) no-repeat center center fixed; 
+	background: url(images/background.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	/*Section ends*/
-}
-
-body{
-/*Here just incase*/
-}
-
-#opacity1 {
-	/*This was just for testing*/
 }
 
 .header {
