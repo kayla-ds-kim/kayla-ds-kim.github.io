@@ -22,10 +22,6 @@ html {
 	/*Section ends*/
 }
 
-body{
-/*Here just in case*/
-}
-
 .header {
 	display:inline-block;
 	margin:0px auto;
@@ -90,10 +86,6 @@ ul {
 
 #date2 {
 	margin-bottom:5px;
-}
-
-.scratchSept6 {
-	/*this is here just incase*/
 }
 
 .scratchref1 {
