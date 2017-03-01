@@ -1,5 +1,11 @@
+/* Applies to all pages */
+
+/*While this is not the best way to refference to the different 
+methods, I wanted all the text to be white and in this specific font
+for unity */
 * {
 	font-family:Courier New;
+	color:white;
 }
 
 a:link {
@@ -51,71 +57,52 @@ html {
 	margin-top:-6px;
 }
 
-.column1 {
-	width:48%;
+/* Python Column*/
+.pythonColumn {
+	width: 25%;
+	display:inline-block;
+}
+
+/*scratch Column*/
+.scratchColumn {
+	width:25%;
+	display:inline-block;
+}
+
+/*NetLogo Column*/
+.netLogoColumn {
+	width:25%;
+	display:inline-block;
+}
+
+/*Python Page*/
+.pyProjectColumn {
+	width:50%;
 	float:left;
 }
 
-.ppic {
-	padding: 5px;
-	float:left;
+.pyMiscColumn {
+	width: 50%;
+	float:right;
 }
 
-.text {
-	padding: 5px;
-	color:white;
-	font-size:20px;
-	float:auto;
-}
-
-ul {
+.pyLinks {
 	color:white;
 	margin-left:10px;
 	margin-top:-10px;
 	padding:5px;
 }
 
-.column2 {
+/* Scratch page */
+
+
+/*NetLogo Page*/
+.nlProjectsColumn {
+	width:50%;
+	float:left;
+}
+
+.nlMiscColumn {
+	width:50%;
 	float:right;
-	width:48%;
-}
-
-#image1 {
-	margin-top:-15px;
-}
-
-#date2 {
-	margin-bottom:5px;
-}
-
-.scratchref1 {
-	color:white;
-	padding-bottom:5px;
-}
-
-.scratchref {
-	color:white;
-}
-
-.ScratchImage {
-	height:200px;
-}
-
-.PythonLogo {
-	height:20px;
-	width:20px;
-}
-
-.Backlog {
-	color:#ffffff;
-}
-
-.pythonlinks {
-	color:#fffff;
-	padding-bottom:5px;
-}
-
-.pythonsymbol {
-	color: #ffffff;
-	
 }
