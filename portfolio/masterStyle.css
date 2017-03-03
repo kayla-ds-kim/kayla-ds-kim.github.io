@@ -58,6 +58,25 @@ html {
 	
 }
 
+/* This portion is for the Social Media Icons*/
+.media {
+	width:250;
+	margin-top:70%;
+}
+
+.insta {
+	height:50px;
+	float:right;
+	padding:7px;
+}
+
+.face {
+	height:50px;
+	float:right;
+	padding:7px;
+	margin-left:10px;
+}
+
 /* Python Column*/
 .pythonColumn {
 	width: 25%;

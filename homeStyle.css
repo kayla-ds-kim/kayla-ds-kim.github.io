@@ -1,5 +1,6 @@
 * {
 	font-family:Courier New;
+	color:white;
 }
 
 html {
@@ -77,7 +78,7 @@ html {
 
 .media {
 	width:250;
-	margin-top:480px;
+	margin-top:50%;
 }
 
 .insta {
